@@ -1,2 +1,2 @@
 # E-commerce-website
-This is a simple project.
+This is a simple project
